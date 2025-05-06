@@ -7,7 +7,7 @@ Welcome to my collection of projects created during my frontend development boot
  🎉 Birthday Card
 Tech Stack:** HTML, Sass  
 Description: A creative birthday card with custom styling with Synthetical awesome style sheet .  
-🔗 [View Project Repository](https://github.com/yourusername/birthday-card-html-sass)
+🔗 [View Project Repository](https://github.com/jidris-spec/birthday-card.git)
 
 
 
