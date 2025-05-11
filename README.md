@@ -30,5 +30,5 @@ This project demonstrates a fully **responsive layout** built using HTML and CSS
 - Flexbox and/or CSS Grid used
 - Optimized for accessibility and user experience
 
-👉 [View Live Site](https://your-username.github.io/your-repo-name)
+👉 [View Live Site](https://github.com/jidris-spec/Responsive-Web-Design.git)
 
