@@ -27,6 +27,13 @@ This project demonstrates a fully **responsive layout** built using HTML and CSS
 💡 Features
 - Mobile-first approach
 - Media queries for responsiveness
+
+  🎯 FlexiFit — Fitness Coaching Landing Page
+Tech Stack: HTML, CSS (Flexbox & Grid)
+Description: A modern landing page for a fictional fitness coaching service, focusing on layout architecture and responsive design. This project includes a hero section, services, testimonials, contact form, and more.
+🔗 View Project Repository https://github.com/jidris-spec/Landing-page.git
+🔗 View Live Site https://jidris-spec.github.io/Landing-page/
+https://startling-bienenstitch-e62c26.netlify.app/
 - Flexbox and/or CSS Grid used
 - Optimized for accessibility and user experience
 
