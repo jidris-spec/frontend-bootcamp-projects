@@ -75,3 +75,5 @@ This project was built to reinforce my understanding of localStorage, cookies, s
 🔐 Session-based experience (future-ready)
 
 https://github.com/jidris-spec/Mental-Fitness-Tracker.git
+netlify
+https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/
