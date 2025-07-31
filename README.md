@@ -53,3 +53,25 @@ Description: A sleek landing page for a fictional fitness coaching service. Focu
 🔗 [View Project Repository](https://github.com/jidris-spec/Landing-page.git)  
 🔗 [View Live Site (GitHub Pages)](https://jidris-spec.github.io/Landing-page/)  
 🔗 [View Live Site (Netlify)](https://startling-bienenstitch-e62c26.netlify.app/)
+
+🧠 Mental Fitness Tracker
+A simple yet powerful web application that helps users track their emotional well-being, express daily gratitude, and stay inspired all in one interface.
+
+This project was built to reinforce my understanding of localStorage, cookies, session handling, and frontend design while learning FastAPI and modern JavaScript development practices.
+
+🌟 Features
+📊 Mood Slider with Emoji Feedback
+
+🙏 Gratitude Journal (saved with localStorage)
+
+✨ Daily Motivational Quotes (from Quotable API)
+
+🌙 Light/Dark Theme Toggle (persisted with cookies)
+
+📈 Dashboard with Entry Count, Mood Average & Streak
+
+⌨️ Keyboard Shortcuts for quick journaling
+
+🔐 Session-based experience (future-ready)
+
+https://github.com/jidris-spec/Mental-Fitness-Tracker.git
