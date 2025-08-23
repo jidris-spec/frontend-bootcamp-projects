@@ -5,25 +5,25 @@ Welcome to my curated collection of projects created during my frontend developm
 
 🎉 Birthday Card Tech Stack: HTML, Sass Description: A creative digital birthday card styled using Sass for modular, maintainable, and visually appealing design.
 
-🔗 View Project Repository
+🔗 View Project Repository https://github.com/jidris-spec/birthday-card.git
 
 ☀️ Weather App Tech Stack: HTML, CSS Design Source: Figma Description: A responsive weather forecast app designed based on a Figma mockup. Focuses on CSS Grid layout techniques.
 
-🔗 View Project Repository
+🔗 View Project Repository  https://github.com/jidris-spec/jidris-spec-Figma-Grid.scss.git
 
 🏠 Bootcamp Homepage Clone Tech Stack: HTML, CSS, JavaScript Description: A clone of the Beetroot Academy Bootcamp homepage, replicating the layout and styling using core web technologies.
 
-🔗 View Project Repository
+🔗 View Project Repository https://github.com/jidris-spec/Bootcamp-homepage.git
 
 🧱 Grid Layout Showcase Tech Stack: HTML, CSS (Grid) Description: A layout demo project showcasing the power of CSS Grid — complex placement, overlapping elements, and responsive structure.
 
-🔗 View Project Repository
+🔗 View Project Repository  https://github.com/jidris-spec/jidris-spec-Figma-Grid.scss.git
 
 📱 Responsive Web Design Project Tech Stack: HTML, CSS Description: A fully responsive website layout built mobile-first with media queries for seamless device compatibility.
 
 💡 Features 📱 Mobile-first layout 🔄 Media queries for responsiveness
 
-🔗 View Project Repository
+🔗 View Project Repository https://github.com/jidris-spec/Responsive-Web-Design.git
 
 🎯 FlexiFit — Fitness Coaching Landing Page Tech Stack: HTML, CSS (Flexbox & Grid) Description: A sleek landing page for a fictional fitness coaching service, focusing on UX, accessibility, and responsive design.
 
