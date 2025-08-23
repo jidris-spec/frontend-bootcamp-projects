@@ -50,4 +50,4 @@ Welcome to my curated collection of projects created during my frontend developm
 - ⚡ Error handling + loading states  
 
 🔗 [View Project Repository](https://github.com/jidris-spec/News-Reader)  
-🔗 [View Live Site (Netlify)](https://news-reader-spec.netlify.app/)  
+🔗 [View Live Site (Netlify)](https://news-publish.netlify.app/)  
