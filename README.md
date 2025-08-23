@@ -29,7 +29,7 @@ Welcome to my curated collection of projects created during my frontend developm
 
 💡 Highlights 💪 Built with Flexbox & CSS Grid 📱 Fully responsive ♿ Accessibility best practices
 
-🔗 View Project Repository 🔗 View Live Site (GitHub Pages) 🔗 View Live Site (Netlify)
+🔗 View Project Repository 🔗 View Live Site (https://github.com/jidris-spec/Flexi-fit.git) 🔗 View Live Site ([Netlify](https://github.com/jidris-spec/Flexi-fit.git))
 
 🧠 Mental Fitness Tracker Tech Stack: HTML, CSS, JavaScript, FastAPI Description: A mental wellness tracker for logging moods, gratitude, and daily motivation. Built to practice localStorage, cookies, and session handling.
 
