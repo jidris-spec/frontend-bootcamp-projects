@@ -40,9 +40,8 @@ Dashboard with analytics (success rate, bottlenecks, trends).
 Light/Dark mode with theme saved to the backend.
 
 Built with React + Vite + MUI, deployed on Vercel with serverless functions.
-[
-](https://job-tracker-2y7gpazeo-idris-projects-508cd8f1.vercel.app/)
 
+job-tracker-drxdjalcj-idris-projects-508cd8f1.vercel.app
 
 
 
