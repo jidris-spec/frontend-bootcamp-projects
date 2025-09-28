@@ -42,7 +42,8 @@ Light/Dark mode with theme saved to the backend.
 Built with React + Vite + MUI, deployed on Vercel with serverless functions.
 
 repo https://github.com/jidris-spec/Job-Tracker-.git
-vercel job-tracker-drxdjalcj-idris-projects-508cd8f1.vercel.app
+
+vercel [job-tracker-drxdjalcj-idris-projects-508cd8f1.vercel.app](https://job-tracker-2y7gpazeo-idris-projects-508cd8f1.vercel.app/)
 
 
 🎉 Birthday Card Tech Stack: HTML, Sass Description: A creative digital birthday card styled using Sass for modular, maintainable, and visually appealing design.
