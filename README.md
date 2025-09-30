@@ -10,11 +10,11 @@ Highlights  Built with Flexbox & CSS Grid  Fully responsive  Accessibility best 
 
 🔗 View Project Repository 🔗 View Live Site (https://github.com/jidris-spec/Flexi-fit.git) 🔗 View Live Site ([Netlify](https://startling-bienenstitch-e62c26.netlify.app/)
 
- Mental Fitness Tracker Tech Stack: HTML, CSS, JavaScript, FastAPI Description: A mental wellness tracker for logging moods, gratitude, and daily motivation. Built to practice localStorage, cookies, and session handling.
+ 🧠 Mental Fitness Tracker Tech Stack: HTML, CSS, JavaScript, FastAPI Description: A mental wellness tracker for logging moods, gratitude, and daily motivation. Built to practice localStorage, cookies, and session handling.
 
  Features  Mood Slider with Emoji Feedback  Gratitude Journal (saved with localStorage)  Daily Quotes (Quotable API)  Dark/Light Theme Toggle (cookies) Dashboard (Entry Count, Mood Average, Streak) ⌨️ Keyboard Shortcuts Session-ready structure
 
-🔗 View Project Repository: https://github.com/jidris-spec/Mental-Fitness-Tracker.git 🔗 View Live Site (Netlify): https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/
+🔗 View Project Repository: https://github.com/jidris-spec/Mental-Fitness-Tracker.git 🔗 View Live Site (Netlify): https://timely-lebkuchen-2eab9b.netlify.app/
 
  📰 News Reader  
 **Tech Stack:** HTML, CSS, JavaScript (API Integration)  
