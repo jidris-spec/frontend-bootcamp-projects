@@ -6,13 +6,13 @@ Welcome to my curated collection of projects created during my frontend developm
 
 🎯 FlexiFit — Fitness Coaching Landing Page Tech Stack: HTML, CSS (Flexbox & Grid) Description: A sleek landing page for a fictional fitness coaching service, focusing on UX, accessibility, and responsive design.
 
-💡 Highlights 💪 Built with Flexbox & CSS Grid 📱 Fully responsive ♿ Accessibility best practices
+Highlights  Built with Flexbox & CSS Grid  Fully responsive  Accessibility best practices
 
 🔗 View Project Repository 🔗 View Live Site (https://github.com/jidris-spec/Flexi-fit.git) 🔗 View Live Site ([Netlify](https://github.com/jidris-spec/Flexi-fit.git))
 
-🧠 Mental Fitness Tracker Tech Stack: HTML, CSS, JavaScript, FastAPI Description: A mental wellness tracker for logging moods, gratitude, and daily motivation. Built to practice localStorage, cookies, and session handling.
+ Mental Fitness Tracker Tech Stack: HTML, CSS, JavaScript, FastAPI Description: A mental wellness tracker for logging moods, gratitude, and daily motivation. Built to practice localStorage, cookies, and session handling.
 
-🌟 Features 📊 Mood Slider with Emoji Feedback 🙏 Gratitude Journal (saved with localStorage) ✨ Daily Quotes (Quotable API) 🌙 Dark/Light Theme Toggle (cookies) 📈 Dashboard (Entry Count, Mood Average, Streak) ⌨️ Keyboard Shortcuts 🔐 Session-ready structure
+ Features  Mood Slider with Emoji Feedback  Gratitude Journal (saved with localStorage)  Daily Quotes (Quotable API)  Dark/Light Theme Toggle (cookies) Dashboard (Entry Count, Mood Average, Streak) ⌨️ Keyboard Shortcuts Session-ready structure
 
 🔗 View Project Repository: https://github.com/jidris-spec/Mental-Fitness-Tracker.git 🔗 View Live Site (Netlify): https://688be424cd2b856eb4984ac6--celadon-caramel-982f91.netlify.app/
 
@@ -62,8 +62,8 @@ vercel [job-tracker-drxdjalcj-idris-projects-508cd8f1.vercel.app](https://job-tr
 
 🔗 View Project Repository  https://github.com/jidris-spec/jidris-spec-Figma-Grid.scss.git
 
-📱 Responsive Web Design Project Tech Stack: HTML, CSS Description: A fully responsive website layout built mobile-first with media queries for seamless device compatibility.
+Responsive Web Design Project Tech Stack: HTML, CSS Description: A fully responsive website layout built mobile-first with media queries for seamless device compatibility.
 
-💡 Features 📱 Mobile-first layout 🔄 Media queries for responsiveness
+ Features  Mobile-first layout  Media queries for responsiveness
 
 🔗 View Project Repository https://github.com/jidris-spec/Responsive-Web-Design.git
