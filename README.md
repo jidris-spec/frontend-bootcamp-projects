@@ -30,7 +30,7 @@ Highlights  Built with Flexbox & CSS Grid  Fully responsive  Accessibility best 
 🔗 [View Project Repository](https://github.com/jidris-spec/News-Reader)  
 🔗 [View Live Site (Netlify)](https://news-publish.netlify.app/)  
 
-Job Tracker web app — built from scratch to solve a real problem I faced during my job search.
+🚀 Job Tracker Web App — built from scratch to solve a real problem I faced during my job search.
 What it does
 
 Add, edit, and delete job applications (company, role, status, date, link, notes).
